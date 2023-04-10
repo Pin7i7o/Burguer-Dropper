@@ -30,7 +30,7 @@
 		"dist"
 	],
 	"staticFiles": {
-		"staticPath": "src/assets",
+		"staticPath": "public",
 		"watcherGlob": "**"
 	}
 }
